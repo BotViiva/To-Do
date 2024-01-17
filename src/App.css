@@ -1,0 +1,12 @@
+.wrapper {
+  border-radius: 10px;
+  margin-left: 20vw;
+  margin-right: 20vw;
+  margin-top: 20vh;
+  margin-bottom: 20vh;
+  background-color: cornsilk;
+}
+
+.list-group-item {
+  background-color: aqua;
+}
